@@ -1,5 +1,7 @@
 ## Easystatic - static site generator
 
+[![Join the chat at https://gitter.im/easystatic/easystatic](https://badges.gitter.im/easystatic/easystatic.svg)](https://gitter.im/easystatic/easystatic?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > The easiest way to generate a static website for your project.
 
 ### Requirements
